@@ -1,6 +1,6 @@
 {
-  "name": "window",
-  "version": "0.0.1",
+  "name": "@u51/window",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
