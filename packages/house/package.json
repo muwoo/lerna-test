@@ -1,6 +1,6 @@
 {
   "name": "house",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@u51/luban-platform": "0.0.1",
     "lodash": "^4.17.10",
     "window": "^0.0.1"
   }

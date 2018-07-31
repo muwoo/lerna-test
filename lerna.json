@@ -3,5 +3,12 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.1"
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": [
+        "--registry http://npm.51.nb/"
+      ]
+    }
+  },
+  "version": "0.0.2"
 }
